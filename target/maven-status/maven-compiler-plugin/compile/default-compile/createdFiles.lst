@@ -1,3 +1,7 @@
-com\gama\service\StringUtils.class
-com\gama\Main.class
-com\gama\service\SenderEmail.class
+com\gama\MailSenderApi.class
+com\gama\model\Mail.class
+com\gama\web\MailSenderControllerImpl.class
+com\gama\exception\InvalidPayloadException.class
+com\gama\web\MailSenderController.class
+com\gama\model\dto\MailPayload.class
+com\gama\service\SenderMailService.class
